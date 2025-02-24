@@ -43,7 +43,6 @@ interests:
   - Embodied AI
 
 education:
-"""
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
@@ -64,7 +63,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-"""
+
   - area: Junior Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2022-09-15
