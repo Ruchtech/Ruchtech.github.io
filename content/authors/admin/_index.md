@@ -174,4 +174,4 @@ awards:
 
 ## About Me
 
-Liyang Wang is a Junior studying.
+Hi! Liyang Wang is a Junior studying.
