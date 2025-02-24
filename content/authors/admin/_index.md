@@ -31,10 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 1277796918@qq.com'
-    label: E-mail Me
+    url: mailto:1277796918@qq.com
+    label: Email Me
   - icon: brands/github
     url: https://github.com/Ruchtech
+    label: GitHub
+
 
 
 interests:
@@ -174,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liyang Wang is a professor of artificial intelligence at the Stanford AI Lab.
