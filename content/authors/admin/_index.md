@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王礼扬
+title: LiyangWang
 
 # Name pronunciation (optional)
-name_pronunciation: LiyangWang
+#name_pronunciation: 王礼扬
 
 # Full name (for SEO)
 first_name: Wang
